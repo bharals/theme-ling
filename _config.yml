@@ -9,24 +9,26 @@ menu:
     text: 主页
     url: /
   archives:
+    text: 归档
     url: /archives
   tags:
+    text: 标签
     url: /tags
   th-list:
-    text: Categories
+    text: 分类
     url: /categories
   github:
     url: https://github.com
     target: _blank
 
 # 你的头像url
-avatar: /img/ico/logo.jpg
+avatar: /img/ico/logo.png
 # avatar link
-avatar_link: /
+avatar_link: 
 # 头像背景图
 brand: /img/brand.jpg
 # favicon
-favicon: /favicon.ico
+favicon: /img/ico/favicon.ico
 
 # email
 email: bharals@163.com
@@ -41,7 +43,7 @@ categories_title: Categories
 
 # 文章截断
 excerpt_render: false
-excerpt_length: 200
+excerpt_length: 300
 excerpt_link: 阅读全文...
 mathjax: false
 archive_yearly: true
@@ -54,7 +56,7 @@ share: true
 
 # 是否开启打赏，关闭 reward: false
 reward:
-  title: 谢谢大爷~
+  title: 谢谢赞赏~
   wechat: /img/reward/wechat.jpg     #微信，关闭设为 false
   alipay: /img/reward/alipay.jpg     #支付宝，关闭设为 false
 
